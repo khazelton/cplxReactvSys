@@ -1,4 +1,4 @@
-Complex Reactive Systems Research
+=== Complex Reactive Systems Research
 
 IT ecosystems and biological organisms are both examples of complex reactive systems.
 
